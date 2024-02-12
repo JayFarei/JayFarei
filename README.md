@@ -5,7 +5,7 @@
 I love developer tools and infrastructure and have been buidling in web3 since 2017.
 Currently VP of Products @ Moonsong labs, incubating products in the Web3 Venture Studio. 
 
-## My areas of interest and work to date:
+## Areas of interest
 - p2p distributed systems
 - multi party compute and key custody solutions
 - cross chain messaging protocols
