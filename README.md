@@ -2,8 +2,8 @@
 
 ## About
 
-I love developer tools and infrastructure and have been buidling in web3 since 2017.
-Currently VP of Products @ Moonsong labs, incubating products in the Web3 Venture Studio. 
+I love developer tools and infrastructure and have been building in web3 since 2017.
+Currently VP of Products @ Moonsong labs, incubating products in AI and Web3 Infrastructure for our Venture Studio. 
 
 ## Areas of interest
 - p2p distributed systems
