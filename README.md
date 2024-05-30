@@ -2,7 +2,7 @@
 
 ## About
 
-I love developer tools and infrastructure and have been building in web3 since 2017.
+Former financial engineer, I love developer tools and infrastructure and have been building distributed systems and protocols since 2017.
 Currently VP of Products @ Moonsong labs, incubating products in AI and Web3 Infrastructure for our Venture Studio. 
 
 ## Areas of interest
@@ -11,9 +11,3 @@ Currently VP of Products @ Moonsong labs, incubating products in AI and Web3 Inf
 - cross chain messaging protocols
 - distributed compute infrastructure for transformer workflows
 - ZK proof roll ups infrastructure
-
-<p align="center">
-  <a href="#">
-    <img src="https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103" alt="Open Source Love">
-  </a>
-</p>
