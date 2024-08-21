@@ -6,7 +6,7 @@ Former financial engineer, I love developer tools and infrastructure and have be
 Currently VP of Products @ Moonsong labs, incubating products in AI and Web3 Infrastructure for our Venture Studio. 
 
 ## Areas of interest
-- machine learning, synthetic sata, LLM developer tooling
+- machine learning, synthetic data, LLM developer tooling
 - p2p distributed systems
 - multi party compute and key custody solutions
 - cross chain messaging protocols
