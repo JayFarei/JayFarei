@@ -10,5 +10,5 @@ Currently VP of Products @ Moonsong labs, incubating products in AI and Web3 Inf
 - p2p distributed systems
 - multi party compute and key custody solutions
 - cross chain messaging protocols
-- distributed compute infrastructure for transformer workflows
+- distributed compute infrastructure for machine learning workflows
 - ZK proof roll ups infrastructure
