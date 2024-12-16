@@ -5,7 +5,8 @@
 I am product executive, builder and venture founder working on AI, Agentic Systems and Web3. I lead Moonsong Labs Venture Studio, where we launch and scale companies in AI and Web3 infrastructure.
 
 ## Areas of interest
-- machine learning, synthetic data, LLM developer tooling
+- machine learning, synthetic data generation, LLM developer tooling
+- multi-agent systems, tool augmented agentic system, federated learning
 - p2p distributed systems
 - multi party compute and key custody solutions
 - cross chain messaging protocols
