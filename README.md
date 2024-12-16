@@ -2,8 +2,7 @@
 
 ## About
 
-Former financial engineer, I love developer tools and infrastructure and have been building distributed systems and protocols since 2017.
-Currently VP of Products @ Moonsong labs, incubating products in AI and Web3 Infrastructure for our Venture Studio. 
+I am product executive, builder and venture founder working on AI, Agentic Systems and Web3. I lead Moonsong Labs Venture Studio, where we launch and scale companies in AI and Web3 infrastructure.
 
 ## Areas of interest
 - machine learning, synthetic data, LLM developer tooling
