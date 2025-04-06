@@ -11,4 +11,3 @@ I am product executive, builder and venture founder working on AI, Agentic Syste
 - multi party compute and key custody solutions
 - cross chain messaging protocols
 - distributed compute infrastructure for machine learning workflows
-- ZK proof roll ups infrastructure
